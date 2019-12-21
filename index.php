@@ -1,0 +1,12 @@
+<?php include_once('scnordic_website/include/header.php');?>
+<?php include_once('scnordic_website/include/slider.php');?>
+<?php include_once('scnordic_website/include/about-us.php');?>
+<?php include_once('scnordic_website/include/enery-services.php');?>
+<?php include_once('scnordic_website/include/counter.php');?>
+<?php include_once('scnordic_website/include/portfolio.php');?>
+<?php include_once('scnordic_website/include/clients.php');?>
+<?php include_once('scnordic_website/include/testimonials.php');?>
+<?php include_once('scnordic_website/include/our-ceo.php');?>
+<?php include_once('scnordic_website/include/blog.php');?>
+<?php include_once('scnordic_website/include/contact-us.php');?>
+<?php include_once('scnordic_website/include/footer.php');?>
